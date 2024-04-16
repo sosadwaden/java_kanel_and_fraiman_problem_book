@@ -9,7 +9,7 @@ package section2_input_commands_output_commands;
  */
 public class Task2_10 {
 
-    public void example2_10() {
+    public void action() {
         int a = 5;
         int b = -3;
 

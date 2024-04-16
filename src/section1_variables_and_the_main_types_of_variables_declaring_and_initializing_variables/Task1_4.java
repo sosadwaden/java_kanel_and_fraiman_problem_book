@@ -2,7 +2,7 @@ package section1_variables_and_the_main_types_of_variables_declaring_and_initial
 
 public class Task1_4 {
 
-    public void example1_4() {
+    public void action() {
         /*
             Задание: Напишите фрагмент класса (группу команд), который будет присваивать
             значения 5 и 9 двум переменным, а затем третья переменная будет

@@ -2,7 +2,7 @@ package section1_variables_and_the_main_types_of_variables_declaring_and_initial
 
 public class Task1_6 {
 
-    public void example1_6() {
+    public void action() {
         /*
             Задание: Напишите фрагмент класса, в котором переменным а и b будут присваиваться
             числовые значения из диапазона «однозначное положительное число».

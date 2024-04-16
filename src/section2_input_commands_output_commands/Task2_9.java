@@ -8,7 +8,7 @@ package section2_input_commands_output_commands;
  */
 public class Task2_9 {
 
-    public void example2_9() {
+    public void action() {
         int x = 9;
 
         System.out.println("Значение x = " + (x));

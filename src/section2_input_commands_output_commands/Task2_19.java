@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class Task2_19 {
 
-    public void example2_19() {
+    public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
         int b = number - 1;

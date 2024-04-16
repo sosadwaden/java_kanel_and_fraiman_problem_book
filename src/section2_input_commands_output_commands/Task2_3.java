@@ -6,7 +6,7 @@ package section2_input_commands_output_commands;
 */
 public class Task2_3 {
 
-    public void example2_3() {
+    public void action() {
         System.out.println("+++\n!!!!\n??");
 
         // ИЛИ

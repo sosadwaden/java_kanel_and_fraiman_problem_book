@@ -2,7 +2,7 @@ package section1_variables_and_the_main_types_of_variables_declaring_and_initial
 
 public class Task1_1 {
 
-    public void example1_1() {
+    public void action() {
     /*
         Задание: Перед вами примеры объявления переменных. Укажите, какие из них
         правильные, а какие - ошибочные. Обоснуйте каждый ответ.

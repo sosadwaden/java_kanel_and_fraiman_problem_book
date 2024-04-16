@@ -9,7 +9,7 @@ package section2_input_commands_output_commands;
  */
 public class Task2_11 {
 
-    public void example2_11() {
+    public void action() {
         String name = "Иван", surname = "Иванов", phoneNumber = "7-841-2666666";
 
         System.out.println("*****************");

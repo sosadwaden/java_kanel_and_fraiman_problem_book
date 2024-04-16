@@ -8,7 +8,7 @@ import java.util.Scanner;
  */
 public class Task2_14 {
 
-    public void example2_14() {
+    public void action() {
         Scanner scanner = new Scanner(System.in);
 
         int number = scanner.nextInt();

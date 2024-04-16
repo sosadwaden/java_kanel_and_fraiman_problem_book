@@ -7,7 +7,7 @@ package section2_input_commands_output_commands;
  */
 public class Task2_13 {
 
-    public void example2_13() {
+    public void action() {
 
         System.out.println("----------Task1_4----------");
         int a = 5, b = 9;

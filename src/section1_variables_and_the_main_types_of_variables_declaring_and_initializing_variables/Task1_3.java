@@ -2,7 +2,7 @@ package section1_variables_and_the_main_types_of_variables_declaring_and_initial
 
 public class Task1_3 {
 
-    public void example1_3() {
+    public void action() {
         /*
             Задание: Перед вами словесные описания объявления и инициализации переменных.
             Запишите их в правилах языка Java - в разных допустимых вариантах.

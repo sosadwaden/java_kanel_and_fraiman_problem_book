@@ -10,7 +10,7 @@ public class Task2_12 {
 
     private final Scanner scanner = new Scanner(System.in);
 
-    public void example2_12() {
+    public void action() {
         System.out.println("Введите символ, из которого будет состоять картинка:");
         String symbol = scanner.nextLine();
 
