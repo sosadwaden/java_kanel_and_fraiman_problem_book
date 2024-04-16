@@ -28,3 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 /.idea/
+/java_problems_of_the_main_programming.iml
+/src/section2_input_commands_output_commands/Main.java
