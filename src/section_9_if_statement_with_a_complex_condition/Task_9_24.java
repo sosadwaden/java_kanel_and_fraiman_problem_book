@@ -21,5 +21,7 @@ public class Task_9_24 {
         } else {
             System.out.println("Не гора");
         }
+
+        scanner.close();
     }
 }

@@ -21,5 +21,6 @@ public class Task_3_9 {
         int sum = a * 10 + b * 100 + c * 1000;
 
         System.out.println("Сумма: " + sum);
+        scanner.close();
     }
 }

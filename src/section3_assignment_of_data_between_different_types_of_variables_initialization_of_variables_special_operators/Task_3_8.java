@@ -20,5 +20,6 @@ public class Task_3_8 {
         double P = 2 * (b + h);
 
         System.out.printf("S: %f %nP: %s", S, P);
+        scanner.close();
     }
 }

@@ -20,5 +20,7 @@ public class Task_9_17 {
         } else {
             System.out.println("Эти углы из разных треугольников");
         }
+
+        scanner.close();
     }
 }

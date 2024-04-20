@@ -30,5 +30,7 @@ public class Task_8_30 {
         else {
             System.out.println("Подсчёт не производится");
         }
+
+        scanner.close();
     }
 }

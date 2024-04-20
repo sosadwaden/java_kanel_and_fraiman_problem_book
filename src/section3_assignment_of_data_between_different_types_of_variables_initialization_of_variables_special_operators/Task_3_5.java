@@ -20,5 +20,6 @@ public class Task_3_5 {
         double P = catheter1 + catheter2 + hypotenuse;
 
         System.out.printf("P: %f %nS: %s", P, S);
+        scanner.close();
     }
 }

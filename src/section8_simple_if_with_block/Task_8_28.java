@@ -31,5 +31,7 @@ public class Task_8_28 {
                 System.out.println("Дробь выражает целое число");
             }
         }
+
+        scanner.close();
     }
 }

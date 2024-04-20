@@ -23,5 +23,7 @@ public class Task_9_23 {
         } else {
             System.out.println("Не дважды чётное");
         }
+
+        scanner.close();
     }
 }

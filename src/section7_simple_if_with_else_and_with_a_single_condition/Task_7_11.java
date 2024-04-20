@@ -22,5 +22,7 @@ public class Task_7_11 {
             System.out.println(a + " " + b);
             System.out.println(b + " " + a);
         }
+
+        scanner.close();
     }
 }

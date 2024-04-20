@@ -17,7 +17,13 @@ public class Task_6_12 {
         double c = scanner.nextDouble();
         double d = b * b - 4 * a * c;
 
-        if (d >= 0) System.out.println("Да");
-        if (d < 0) System.out.println("Нет");
+        if (d >= 0) {
+            System.out.println("Да");
+        }
+        if (d < 0) {
+            System.out.println("Нет");
+        }
+
+        scanner.close();
     }
 }

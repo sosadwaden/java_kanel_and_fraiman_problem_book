@@ -16,6 +16,7 @@ public class Task_9_15 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
+
         if (number <= 0 || number >= 13) {
             System.out.println("Это не месяц");
         }
@@ -31,5 +32,7 @@ public class Task_9_15 {
         if (number >= 9 && number <= 11) {
             System.out.println("Осень");
         }
+
+        scanner.close();
     }
 }

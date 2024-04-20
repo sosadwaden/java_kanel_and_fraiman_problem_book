@@ -20,7 +20,7 @@ public class Task_10_20 {
 
         int maxDigit = Math.max(Math.max(firstDigit, secondDigit), thirdDigit);
         System.out.println("Максимальная цифры трёхзначного числа: " + maxDigit);
-        System.out.println("Разница между сгенерированной цифрой и\n" +
-                           "наибольшей цифрой сгенерированного случайного трехзначного числа: " + Math.abs(maxDigit - digit));
+        System.out.println("Разница между сгенерированной цифрой и наибольшей цифрой" +
+                           " сгенерированного случайного трехзначного числа: " + Math.abs(maxDigit - digit));
     }
 }

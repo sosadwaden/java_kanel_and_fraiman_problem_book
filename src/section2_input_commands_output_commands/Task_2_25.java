@@ -22,5 +22,6 @@ public class Task_2_25 {
         System.out.println("S2 = " + b * c);
         System.out.println("S3 = " + a * c);
         System.out.println("P = " + (4 * a + 4 * b + 4 * c));
+        scanner.close();
     }
 }

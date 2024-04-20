@@ -14,5 +14,6 @@ public class Task_2_20 {
         int number = scanner.nextInt();
 
         System.out.println(number + "\n" + (-number));
+        scanner.close();
     }
 }

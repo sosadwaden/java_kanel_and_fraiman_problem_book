@@ -20,5 +20,6 @@ public class Task_2_38 {
         char initialPatronymic = patronymic.charAt(0);
 
         System.out.printf("%c.%c.%c.", initialName, initialSurname, initialPatronymic);
+        scanner.close();
     }
 }

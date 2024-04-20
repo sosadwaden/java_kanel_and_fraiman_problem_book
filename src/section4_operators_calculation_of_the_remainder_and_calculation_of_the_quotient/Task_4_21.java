@@ -15,5 +15,6 @@ public class Task_4_21 {
         int newNumber = rightPart * 10 + leftPart;
 
         System.out.println(newNumber);
+        scanner.close();
     }
 }

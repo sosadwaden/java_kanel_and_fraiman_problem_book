@@ -15,7 +15,13 @@ public class Task_6_13 {
         double a = scanner.nextDouble();
         double b = scanner.nextDouble();
 
-        if (b != 0) System.out.println("Дробь существует");
-        if (b == 0) System.out.println("Дробь не существует");
+        if (b != 0) {
+            System.out.println("Дробь существует");
+        }
+        if (b == 0) {
+            System.out.println("Дробь не существует");
+        }
+
+        scanner.close();
     }
 }

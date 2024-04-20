@@ -18,5 +18,6 @@ public class Task_9_32 {
             System.out.println("Не високосный год");
         }
 
+        scanner.close();
     }
 }

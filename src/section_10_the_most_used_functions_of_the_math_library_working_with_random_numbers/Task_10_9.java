@@ -1,7 +1,5 @@
 package section_10_the_most_used_functions_of_the_math_library_working_with_random_numbers;
 
-import java.util.Scanner;
-
 /*
     Задание: Напиши класс, представляющий версию игры из предыдущего задания -
     только в этом случае компьютер должен играть сам с собой, то

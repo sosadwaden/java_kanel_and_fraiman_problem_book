@@ -20,5 +20,7 @@ public class Task_9_19 {
         } else {
             System.out.println("Прямоугольник");
         }
+
+        scanner.close();
     }
 }

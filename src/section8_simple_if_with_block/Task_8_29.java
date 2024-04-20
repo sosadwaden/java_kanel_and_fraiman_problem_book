@@ -23,5 +23,7 @@ public class Task_8_29 {
         } else {
             System.out.println("Подсчет не производится");
         }
+
+        scanner.close();
     }
 }

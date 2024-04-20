@@ -16,11 +16,13 @@ public class Task_4_15 {
         int secondDigit = number / 100 % 10;
         int thirdDigit = number / 10 % 10;
         int fourthDigit = number % 10;
+
         count -= firstDigit % 2;
         count -= secondDigit % 2;
         count -= thirdDigit % 2;
         count -= fourthDigit % 2;
 
         System.out.println(count);
+        scanner.close();
     }
 }

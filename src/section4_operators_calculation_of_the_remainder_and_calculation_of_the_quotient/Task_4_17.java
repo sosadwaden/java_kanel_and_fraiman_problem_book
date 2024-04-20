@@ -17,5 +17,6 @@ public class Task_4_17 {
         int numberOut = fourthDigit * 1000 + secondDigit * 100 + thirdDigit * 10 + firstDigit;
 
         System.out.println(numberOut);
+        scanner.close();
     }
 }

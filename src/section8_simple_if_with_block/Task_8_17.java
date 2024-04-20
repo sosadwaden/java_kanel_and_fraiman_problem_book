@@ -27,5 +27,7 @@ public class Task_8_17 {
         } else {
             System.out.println("Число не дважды чётное");
         }
+
+        scanner.close();
     }
 }

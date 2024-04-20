@@ -19,5 +19,6 @@ public class Task_10_4 {
         System.out.println("Первое случайное число: " + randomNumber1);
         System.out.println("Второе случайное число: " + randomNumber2);
         System.out.println("Третье случайное число: " + randomNumber3);
+        scanner.close();
     }
 }

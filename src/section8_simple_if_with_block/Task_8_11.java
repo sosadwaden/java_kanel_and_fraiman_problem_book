@@ -21,5 +21,7 @@ public class Task_8_11 {
         } else {
             System.out.println("Количество недостающих стульев: " + (numberOfStudents - numberOfChairs));
         }
+
+        scanner.close();
     }
 }

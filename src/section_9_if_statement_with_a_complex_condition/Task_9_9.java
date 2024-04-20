@@ -24,5 +24,7 @@ public class Task_9_9 {
         if (a != 0) {
             System.out.println(-b / a);
         }
+
+        scanner.close();
     }
 }

@@ -14,6 +14,7 @@ public class Task_4_24 {
         Scanner scanner = new Scanner(System.in);
         int number1 = scanner.nextInt();
         int number2 = scanner.nextInt();
+
         int number1LastDigit = number1 % 10;
         int number2LastDigit = number2 % 10;
         number1 = number1 - number1LastDigit + number2LastDigit;
@@ -21,5 +22,6 @@ public class Task_4_24 {
 
         System.out.println(number1);
         System.out.println(number2);
+        scanner.close();
     }
 }

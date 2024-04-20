@@ -18,5 +18,7 @@ public class Task_8_10 {
         } else {
             System.out.println("Ошибка");
         }
+
+        scanner.close();
     }
 }

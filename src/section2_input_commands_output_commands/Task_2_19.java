@@ -17,5 +17,6 @@ public class Task_2_19 {
         int c = number + 1;
 
         System.out.printf("%d %d %d", b, number, c);
+        scanner.close();
     }
 }

@@ -11,6 +11,11 @@ public class Task_6_5 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        if (number == 0) System.out.println("Zero");
+
+        if (number == 0) {
+            System.out.println("Zero");
+        }
+
+        scanner.close();
     }
 }

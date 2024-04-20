@@ -18,5 +18,6 @@ public class Task_4_11 {
         int length = firstDigit - secondDigit;
 
         System.out.println(length);
+        scanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class Task_2_34 {
         String name = scanner.nextLine();
 
         System.out.printf("%s, %s", hello, name);
+        scanner.close();
     }
 }

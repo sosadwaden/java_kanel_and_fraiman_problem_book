@@ -21,5 +21,7 @@ public class Task_9_20 {
             sec -= min * 60;
             System.out.printf("Минут: %d, Секунд: %d", min, sec);
         }
+
+        scanner.close();
     }
 }

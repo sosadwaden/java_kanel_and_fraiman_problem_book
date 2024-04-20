@@ -25,5 +25,7 @@ public class Task_9_22 {
         } else {
             System.out.println("Нельзя");
         }
+
+        scanner.close();
     }
 }

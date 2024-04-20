@@ -25,5 +25,6 @@ public class Task_9_29 {
         }
 
         System.out.println(count);
+        scanner.close();
     }
 }

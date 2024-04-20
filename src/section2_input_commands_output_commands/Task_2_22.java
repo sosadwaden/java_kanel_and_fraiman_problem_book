@@ -19,5 +19,6 @@ public class Task_2_22 {
         System.out.println("number1 * number2 = " + (number1 * number2));
         System.out.println("number1 - number2 = " + (number1 - number2));
         System.out.println("number2 - number1 = " + (number2 - number1));
+        scanner.close();
     }
 }

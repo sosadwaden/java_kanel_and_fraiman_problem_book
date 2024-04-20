@@ -26,5 +26,7 @@ public class Task_8_22 {
             newNumber = (number / 10) * 10;
             System.out.println("Down to " + newNumber);
         }
+
+        scanner.close();
     }
 }

@@ -16,5 +16,6 @@ public class Task_3_7 {
         int a3 = a - 3;
 
         System.out.println(a1 + "\n" + a2 + "\n" + a3);
+        scanner.close();
     }
 }

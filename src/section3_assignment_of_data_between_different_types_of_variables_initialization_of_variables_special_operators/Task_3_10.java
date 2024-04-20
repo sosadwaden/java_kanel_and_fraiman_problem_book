@@ -21,5 +21,6 @@ public class Task_3_10 {
         double result = (vasyaEarned + parentsEarned) / ratioEuro;
 
         System.out.println(result);
+        scanner.close();
     }
 }

@@ -16,7 +16,13 @@ public class Task_6_14 {
         double a = scanner.nextDouble();
         double b = scanner.nextDouble();
 
-        if (a / b > 0) System.out.println("Дробь положительная");
-        if (a / b < 0) System.out.println("Дробь отрицательная");
+        if (a / b > 0) {
+            System.out.println("Дробь положительная");
+        }
+        if (a / b < 0) {
+            System.out.println("Дробь отрицательная");
+        }
+
+        scanner.close();
     }
 }

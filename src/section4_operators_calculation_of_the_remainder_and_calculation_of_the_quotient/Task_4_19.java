@@ -16,5 +16,6 @@ public class Task_4_19 {
         int newNumber = secondDigit * 1000 + thirdDigit * 100 + fourthDigit * 10;
 
         System.out.println(newNumber);
+        scanner.close();
     }
 }

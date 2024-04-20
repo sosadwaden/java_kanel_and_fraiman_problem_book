@@ -24,5 +24,7 @@ public class Task_9_12 {
         } else {
             System.out.println("Нет");
         }
+
+        scanner.close();
     }
 }

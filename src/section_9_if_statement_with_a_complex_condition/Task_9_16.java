@@ -34,5 +34,7 @@ public class Task_9_16 {
         if ((number > 22 && number <= 24) || (number >= 0 && number < 6)){
             System.out.println("Ночь");
         }
+
+        scanner.close();
     }
 }

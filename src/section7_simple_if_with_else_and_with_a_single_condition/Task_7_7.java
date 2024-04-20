@@ -19,5 +19,7 @@ public class Task_7_7 {
         } else {
             System.out.println("Не все ученики смогут сесть.");
         }
+
+        scanner.close();
     }
 }

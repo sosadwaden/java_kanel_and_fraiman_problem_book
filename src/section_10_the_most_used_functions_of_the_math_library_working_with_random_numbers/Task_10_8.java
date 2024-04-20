@@ -31,5 +31,7 @@ public class Task_10_8 {
         } else {
             System.out.println("Слишком большое число, компьютер загадал " + randomNumber);
         }
+
+        scanner.close();
     }
 }

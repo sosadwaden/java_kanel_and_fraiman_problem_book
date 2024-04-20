@@ -14,8 +14,17 @@ public class Task_6_8 {
         Scanner scanner = new Scanner(System.in);
         int number1 = scanner.nextInt();
         int number2 = scanner.nextInt();
-        if (number1 > number2) System.out.println(number1 + number2);
-        if (number1 < number2) System.out.println(number1 * number2);
-        if (number1 == number2) System.out.println("Числа равны");
+
+        if (number1 > number2) {
+            System.out.println(number1 + number2);
+        }
+        if (number1 < number2) {
+            System.out.println(number1 * number2);
+        }
+        if (number1 == number2) {
+            System.out.println("Числа равны");
+        }
+
+        scanner.close();
     }
 }

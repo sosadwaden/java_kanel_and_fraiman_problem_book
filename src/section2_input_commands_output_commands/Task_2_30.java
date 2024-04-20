@@ -19,5 +19,6 @@ public class Task_2_30 {
         System.out.println("Секунд прошло с полуночи: " + (hours * 3600 + minutes * 60));
         System.out.println("Минут прошло с полуночи: " + (hours * 60 + minutes));
         System.out.println("Минут до полуночи: " + (24 * 60 - (hours * 60 + minutes)));
+        scanner.close();
     }
 }

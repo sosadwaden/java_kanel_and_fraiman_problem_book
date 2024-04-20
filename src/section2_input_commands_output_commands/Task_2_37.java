@@ -16,5 +16,6 @@ public class Task_2_37 {
 
         System.out.printf("%s %s%n", surname, name);
         System.out.printf("%s %s%n", name, surname);
+        scanner.close();
     }
 }

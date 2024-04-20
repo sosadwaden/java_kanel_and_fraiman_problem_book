@@ -26,5 +26,7 @@ public class Task_8_27 {
         if (aLastdigit == bLastDigit) {
             System.out.println("Нет результата");
         }
+
+        scanner.close();
     }
 }

@@ -32,5 +32,6 @@ public class Task_8_23 {
         }
 
         System.out.println(a + " " + b);
+        scanner.close();
     }
 }

@@ -27,5 +27,7 @@ public class Task_8_14 {
         if (firstDigit < secondDigit) {
             System.out.println("Число десятков меньше числа единиц");
         }
+
+        scanner.close();
     }
 }

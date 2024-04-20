@@ -16,5 +16,6 @@ public class Task_2_35 {
         String surname = scanner.nextLine();
 
         System.out.printf("Вас зовут %s %s", name, surname);
+        scanner.close();
     }
 }

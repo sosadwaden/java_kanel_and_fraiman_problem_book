@@ -18,5 +18,7 @@ public class Task_7_6 {
         } else {
             System.out.println("Не равны");
         }
+
+        scanner.close();
     }
 }

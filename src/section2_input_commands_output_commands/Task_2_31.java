@@ -16,6 +16,8 @@ public class Task_2_31 {
         double m = scanner.nextInt();
         double v = scanner.nextInt();
         double energy = (m * (v * v)) / 2;
+
         System.out.println("Кинетическая энергия: " + energy);
+        scanner.close();
     }
 }

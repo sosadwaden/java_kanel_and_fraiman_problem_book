@@ -12,9 +12,12 @@ public class Task_6_4 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
+
         if (number > 0) {
             number *= 2;
             System.out.println(number * 2);
         }
+
+        scanner.close();
     }
 }

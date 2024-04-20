@@ -13,5 +13,6 @@ public class Task_2_18 {
 
         int number = scanner.nextInt();
         System.out.printf("%d & %d", number * number, number * number * number);
+        scanner.close();
     }
 }

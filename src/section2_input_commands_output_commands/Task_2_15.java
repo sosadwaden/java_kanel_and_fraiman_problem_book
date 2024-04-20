@@ -13,5 +13,6 @@ public class Task_2_15 {
 
         int number = scanner.nextInt();
         System.out.println(number * 10);
+        scanner.close();
     }
 }

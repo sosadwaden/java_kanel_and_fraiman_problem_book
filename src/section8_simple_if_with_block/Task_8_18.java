@@ -30,5 +30,6 @@ public class Task_8_18 {
         }
 
         System.out.println("Степень чётности числа: " + count);
+        scanner.close();
     }
 }

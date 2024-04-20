@@ -16,5 +16,6 @@ public class Task_4_2 {
         int thirdDigit = number % 10;
 
         System.out.printf(firstDigit + " " + secondDigit + " " + thirdDigit);
+        scanner.close();
     }
 }

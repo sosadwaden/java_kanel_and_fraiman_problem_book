@@ -13,5 +13,6 @@ public class Task_2_17 {
 
         int number = scanner.nextInt();
         System.out.println(number * number);
+        scanner.close();
     }
 }

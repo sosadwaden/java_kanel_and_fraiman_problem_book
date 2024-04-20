@@ -12,8 +12,17 @@ public class Task_6_6 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        if (number > 0) System.out.println("Positive");
-        if (number == 0) System.out.println("Zero");
-        if (number < 0) System.out.println("Negative");
+
+        if (number > 0) {
+            System.out.println("Positive");
+        }
+        if (number == 0) {
+            System.out.println("Zero");
+        }
+        if (number < 0) {
+            System.out.println("Negative");
+        }
+
+        scanner.close();
     }
 }

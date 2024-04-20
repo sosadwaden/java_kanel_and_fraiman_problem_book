@@ -22,5 +22,7 @@ public class Task_8_20 {
         } else {
             System.out.println("Число не содержит ноль");
         }
+
+        scanner.close();
     }
 }

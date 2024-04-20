@@ -19,5 +19,7 @@ public class Task_9_34 {
         } else {
             System.out.println("Не равны");
         }
+
+        scanner.close();
     }
 }

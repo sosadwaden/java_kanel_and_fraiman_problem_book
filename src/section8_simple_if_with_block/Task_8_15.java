@@ -24,5 +24,7 @@ public class Task_8_15 {
         if (secondDigit > firstDigit) {
             System.out.println("Число единиц больше числа десятков");
         }
+
+        scanner.close();
     }
 }

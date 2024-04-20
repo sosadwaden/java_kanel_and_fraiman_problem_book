@@ -15,5 +15,6 @@ public class Task_2_16 {
         int number = scanner.nextInt();
         System.out.println(number + 6);
         System.out.println(number - 12);
+        scanner.close();
     }
 }

@@ -24,5 +24,7 @@ public class Task_9_33 {
             int d = a % b;
             System.out.printf("%d %d/%d", c, d, b);
         }
+
+        scanner.close();
     }
 }

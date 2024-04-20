@@ -21,5 +21,7 @@ public class Task_8_16 {
         } else  {
             System.out.println("Число не симметричное");
         }
+
+        scanner.close();
     }
 }

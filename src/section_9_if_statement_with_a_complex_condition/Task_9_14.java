@@ -31,5 +31,7 @@ public class Task_9_14 {
         if (number == 5) {
             System.out.println("ОТЛИЧНО");
         }
+
+        scanner.close();
     }
 }

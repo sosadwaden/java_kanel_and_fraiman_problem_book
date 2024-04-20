@@ -26,5 +26,7 @@ public class Task_9_30 {
         if (thirdDigit != 0 && number % thirdDigit == 0) {
             System.out.printf("Число %d делится на %d без остатка", number, thirdDigit);
         }
+
+        scanner.close();
     }
 }

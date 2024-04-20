@@ -18,9 +18,16 @@ public class Task_6_11 {
         boolean different = (a < 0 && b > 0) || (a > 0 && b < 0);
         boolean zero = a == 0 || b == 0;
 
-        if (positive) System.out.println("Один и тот же знак");
-        if (different) System.out.println("Разные знаки");
-        if (zero) System.out.println("Некорректно");
+        if (positive) {
+            System.out.println("Один и тот же знак");
+        }
+        if (different) {
+            System.out.println("Разные знаки");
+        }
+        if (zero) {
+            System.out.println("Некорректно");
+        }
 
+        scanner.close();
     }
 }

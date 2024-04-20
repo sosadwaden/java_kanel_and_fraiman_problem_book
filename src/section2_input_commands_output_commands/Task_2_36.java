@@ -17,5 +17,6 @@ public class Task_2_36 {
         String city = scanner.nextLine();
 
         System.out.printf("Пассажир %s вылетает в %s", surname, city);
+        scanner.close();
     }
 }

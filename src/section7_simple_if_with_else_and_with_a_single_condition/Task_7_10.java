@@ -17,6 +17,8 @@ public class Task_7_10 {
         } else {
             number = 0;
         }
+
         System.out.println(number);
+        scanner.close();
     }
 }

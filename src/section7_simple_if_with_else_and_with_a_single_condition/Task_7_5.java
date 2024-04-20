@@ -18,5 +18,7 @@ public class Task_7_5 {
         } else {
             System.out.println("Отрицательное");
         }
+
+        scanner.close();
     }
 }

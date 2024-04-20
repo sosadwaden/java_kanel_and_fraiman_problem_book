@@ -19,5 +19,7 @@ public class Task_8_12 {
         } else {
             System.out.println("Ошибочная оценка");
         }
+
+        scanner.close();
     }
 }

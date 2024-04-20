@@ -16,9 +16,11 @@ public class Task_4_13 {
         int count = 2;
         int firstDigit = number / 10;
         int secondDigit = number % 10;
+
         count -= firstDigit % 2;
         count -= secondDigit % 2;
 
         System.out.println(count);
+        scanner.close();
     }
 }

@@ -17,5 +17,6 @@ public class Task_2_28 {
         double kilometers = meters / 1000.0;
 
         System.out.printf("Distance in meters: %f%nDistance in kilometers: %f", meters, kilometers);
+        scanner.close();
     }
 }

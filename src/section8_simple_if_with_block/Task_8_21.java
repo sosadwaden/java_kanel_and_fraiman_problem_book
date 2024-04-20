@@ -22,5 +22,6 @@ public class Task_8_21 {
         }
 
         System.out.println(newNumber);
+        scanner.close();
     }
 }

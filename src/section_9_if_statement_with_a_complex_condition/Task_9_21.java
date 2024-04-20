@@ -24,5 +24,7 @@ public class Task_9_21 {
             min -= hour * 60;
             System.out.printf("Часов: %d, Минут: %d, Секунд: %d", hour, min, sec);
         }
+
+        scanner.close();
     }
 }

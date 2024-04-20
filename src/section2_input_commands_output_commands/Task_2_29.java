@@ -15,5 +15,6 @@ public class Task_2_29 {
         int seconds = hours * 60 * 60;
 
         System.out.println(seconds);
+        scanner.close();
     }
 }

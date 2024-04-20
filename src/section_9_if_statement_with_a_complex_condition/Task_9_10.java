@@ -28,5 +28,7 @@ public class Task_9_10 {
         } else {
             System.out.println("Все числа различны.");
         }
+
+        scanner.close();
     }
 }

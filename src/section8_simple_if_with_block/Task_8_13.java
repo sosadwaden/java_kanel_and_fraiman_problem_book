@@ -20,5 +20,7 @@ public class Task_8_13 {
         } else {
             System.out.println("Цифры числа не равны");
         }
+
+        scanner.close();
     }
 }

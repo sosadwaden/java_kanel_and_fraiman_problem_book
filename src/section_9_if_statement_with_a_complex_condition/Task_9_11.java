@@ -23,5 +23,7 @@ public class Task_9_11 {
         } else {
             System.out.println("Число не плоское");
         }
+
+        scanner.close();
     }
 }

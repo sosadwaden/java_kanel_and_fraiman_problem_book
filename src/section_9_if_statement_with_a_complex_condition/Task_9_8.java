@@ -22,10 +22,13 @@ public class Task_9_8 {
 
         int sum123 = firstNumber + secondNumber + thirdNumber;
         int sum456 = fourthNumber + fifthNumber + sixthNumber;
+
         if ((sum123 == sum456) && (sum123 % 2 == 0) && (sum456 % 2 == 0)) {
             System.out.println("Счастливый");
         } else {
             System.out.println("Не счастливый");
         }
+
+        scanner.close();
     }
 }

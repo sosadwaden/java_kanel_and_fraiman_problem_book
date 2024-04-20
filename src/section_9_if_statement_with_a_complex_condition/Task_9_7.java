@@ -43,5 +43,7 @@ public class Task_9_7 {
         } else {
             System.out.println("Ошибочные данные. Введены некорректные углы для треугольника.");
         }
+
+        scanner.close();
     }
 }

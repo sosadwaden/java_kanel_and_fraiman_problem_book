@@ -18,5 +18,6 @@ public class Task_3_2 {
         double d = cm / 2.54;
 
         System.out.println(d);
+        scanner.close();
     }
 }

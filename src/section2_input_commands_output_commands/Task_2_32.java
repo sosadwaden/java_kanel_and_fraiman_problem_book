@@ -11,6 +11,8 @@ public class Task_2_32 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
+
         System.out.println("Обратное число: " + (1.0 / number));
+        scanner.close();
     }
 }

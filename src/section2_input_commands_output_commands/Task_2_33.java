@@ -15,5 +15,6 @@ public class Task_2_33 {
         S = (0.5 * h * (a + b));
 
         System.out.println("Площадь трапеции: " + S);
+        scanner.close();
     }
 }

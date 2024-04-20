@@ -15,10 +15,12 @@ public class Task_4_14 {
         int firstDigit = number / 100;
         int secondDigit = number / 10 % 10;
         int thirdDigit = number % 10;
+
         count -= firstDigit % 2;
         count -= secondDigit % 2;
         count -= thirdDigit % 2;
 
         System.out.println(count);
+        scanner.close();
     }
 }

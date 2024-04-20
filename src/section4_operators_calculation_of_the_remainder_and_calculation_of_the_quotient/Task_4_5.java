@@ -16,5 +16,6 @@ public class Task_4_5 {
         int secondDigit = number % 10;
 
         System.out.println(firstDigit + "+" +  secondDigit);
+        scanner.close();
     }
 }

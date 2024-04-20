@@ -22,5 +22,7 @@ public class Task_7_9 {
         } else {
             System.out.println("Треугольник не прямоугольный");
         }
+
+        scanner.close();
     }
 }

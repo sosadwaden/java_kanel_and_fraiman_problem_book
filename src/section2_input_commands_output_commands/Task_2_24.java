@@ -17,5 +17,6 @@ public class Task_2_24 {
 
         System.out.println("S = " + (a * b));
         System.out.println("P = " + (a + b) * 2);
+        scanner.close();
     }
 }

@@ -27,5 +27,6 @@ public class Task_4_26 {
 
         System.out.println(number1);
         System.out.println(number2);
+        scanner.close();
     }
 }

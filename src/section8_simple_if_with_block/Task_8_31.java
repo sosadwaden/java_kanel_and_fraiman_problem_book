@@ -41,5 +41,6 @@ public class Task_8_31 {
 
         int newNumber = firstDigit * 100 + secondDigit * 10 + thirdDigit;
         System.out.println(newNumber);
+        scanner.close();
     }
 }

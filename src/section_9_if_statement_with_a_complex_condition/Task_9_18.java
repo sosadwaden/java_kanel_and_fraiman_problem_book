@@ -20,5 +20,7 @@ public class Task_9_18 {
         } else {
             System.out.println("Эти стороны из разных треугольников");
         }
+
+        scanner.close();
     }
 }

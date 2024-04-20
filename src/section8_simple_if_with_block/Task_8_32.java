@@ -22,5 +22,7 @@ public class Task_8_32 {
             int a = scanner.nextInt();
             System.out.println(a + number);
         }
+
+        scanner.close();
     }
 }

@@ -18,5 +18,6 @@ public class Task_2_21 {
         int c = number + 3;
 
         System.out.printf("%d%n%d%n%d%n", a, b, c);
+        scanner.close();
     }
 }

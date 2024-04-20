@@ -15,7 +15,13 @@ public class Task_6_9 {
     public void action() {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        //if (number % 222 == 0) System.out.println("Это четно-красивое число");
-        // TODO
+
+        if (number % 2 == 0 && number / 10 % 2 == 0 && number / 100 % 2 == 0) {
+            System.out.println("Число является четно-красивым");
+        } else {
+            System.out.println("Число не является четно-красивым");
+        }
+
+        scanner.close();
     }
 }

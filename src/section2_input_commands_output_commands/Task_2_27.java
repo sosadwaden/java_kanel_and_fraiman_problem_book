@@ -12,5 +12,6 @@ public class Task_2_27 {
         Scanner scanner = new Scanner(System.in);
         int weightInGrams = scanner.nextInt();
         System.out.println("Вес в килограммах:" + (weightInGrams / 1000));
+        scanner.close();
     }
 }

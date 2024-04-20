@@ -15,7 +15,13 @@ public class Task_6_10 {
         int secondNumber = number % 10;
         int multiplicationOfNumbers = firstNumber * secondNumber;
 
-        if (number > multiplicationOfNumbers) System.out.println("Число больше");
-        if (number < multiplicationOfNumbers) System.out.println("Произведение больше");
+        if (number > multiplicationOfNumbers) {
+            System.out.println("Число больше");
+        }
+        if (number < multiplicationOfNumbers) {
+            System.out.println("Произведение больше");
+        }
+
+        scanner.close();
     }
 }

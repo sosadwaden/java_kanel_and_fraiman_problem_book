@@ -17,5 +17,6 @@ public class Task_4_9 {
         int numberWeight = firstDigit + secondDigit;
 
         System.out.println(numberWeight);
+        scanner.close();
     }
 }

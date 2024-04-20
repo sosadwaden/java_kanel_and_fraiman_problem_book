@@ -25,5 +25,6 @@ public class Task_2_39 {
         char charPatronymic = patronymic.charAt(0);
         String message = charName + "." + charPatronymic + ". " + surname;
         System.out.println(message);
+        scanner.close();
     }
 }

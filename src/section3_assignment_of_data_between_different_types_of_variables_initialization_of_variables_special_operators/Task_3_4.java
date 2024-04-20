@@ -19,5 +19,6 @@ public class Task_3_4 {
         double ratio = scanner.nextDouble();
 
         System.out.println(ratio * currency);
+        scanner.close();
     }
 }

@@ -20,5 +20,6 @@ public class Task_4_7 {
         int newNumber = secondDigit * 10 + firstDigit + 8;
 
         System.out.println(newNumber);
+        scanner.close();
     }
 }

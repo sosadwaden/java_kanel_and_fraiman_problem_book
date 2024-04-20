@@ -17,5 +17,6 @@ public class Task_3_1 {
         double C = 5 * (F - 32) / 9.0;
 
         System.out.println(C);
+        scanner.close();
     }
 }

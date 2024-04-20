@@ -26,5 +26,7 @@ public class Task_9_5 {
         if (number % 3 == 2) {
             System.out.println("В центре, " + "Этаж: " + level);
         }
+
+        scanner.close();
     }
 }

@@ -32,5 +32,7 @@ public class Task_9_37 {
         } else {
             System.out.println("Они не тезки и не однофамильцы.");
         }
+
+        scanner.close();
     }
 }

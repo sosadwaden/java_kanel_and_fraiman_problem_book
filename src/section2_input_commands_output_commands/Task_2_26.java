@@ -15,5 +15,6 @@ public class Task_2_26 {
         int currentYear = scanner.nextInt();
 
         System.out.println("Ваше текущий возраст: " + (currentYear - yearOfBirth));
+        scanner.close();
     }
 }

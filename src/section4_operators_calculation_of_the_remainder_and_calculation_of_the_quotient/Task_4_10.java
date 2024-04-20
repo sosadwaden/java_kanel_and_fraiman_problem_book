@@ -18,5 +18,6 @@ public class Task_4_10 {
         int numberWeight = firstDigit + secondDigit + thirdDigit;
 
         System.out.println(numberWeight);
+        scanner.close();
     }
 }

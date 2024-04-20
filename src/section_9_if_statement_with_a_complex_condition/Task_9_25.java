@@ -21,5 +21,7 @@ public class Task_9_25 {
         } else {
             System.out.println("Не яма");
         }
+
+        scanner.close();
     }
 }

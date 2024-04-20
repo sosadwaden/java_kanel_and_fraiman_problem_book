@@ -20,5 +20,6 @@ public class Task_4_12 {
         int length = (firstDigit - thirdDigit) * secondDigit;
 
         System.out.println(length);
+        scanner.close();
     }
 }
